@@ -64,7 +64,7 @@ CSRF_TRUSTED_ORIGINS = [
   
   В терминале необходимо ввести команды:
   ```
-  git clone https://github.com/sudarev91/AtomicHabits
+  git clone https://github.com/PyScriptZenith/AtomicHabits
   ```
   ```
   cd AtomicHabits/
